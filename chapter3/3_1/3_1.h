@@ -1,11 +1,3 @@
-/*
- * @Author: Phyleoly Phyleoly@gmail.com
- * @Date: 2024-06-15 04:09:12
- * @LastEditTime: 2024-06-15 04:20:02
- * @Description: 
- * 
- * Copyright (c) 2024 by Phyeloly, All Rights Reserved. 
- */
 #include <iostream>
 
 void myVoidFunction(const char* format, ...);
