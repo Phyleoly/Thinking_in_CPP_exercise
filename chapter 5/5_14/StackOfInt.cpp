@@ -23,3 +23,7 @@ void StackOfInt::push(int x) {
     impl->stack[impl->top] = x;
     impl->top++;
 }
+
+int StackOfInt::peek() {
+    return impl->stack[impl->top - 1];
+}
