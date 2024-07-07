@@ -1,0 +1,3 @@
+#include "header.h"
+
+int MyClass::staticVar = 1;
